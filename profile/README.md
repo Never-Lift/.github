@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%" />
-
 <img src="logo.png" width="130" alt="Never Lift Logo" />
 
 # 🏁 Never Lift
@@ -161,8 +159,6 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-<sub>Made with ❤️ and <strong>AI Agents</strong> — <a href="https://github.com/Never-Lift">Never Lift Organization</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
