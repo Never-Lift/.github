@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<img src="profile/logo.png" width="130" alt="Never Lift Logo" />
+<img src="logo.png" width="130" alt="Never Lift Logo" />
 
 # 🏁 Never Lift
 
@@ -62,9 +62,15 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusEich15&theme=tokyonight" alt="Profile Details" width="100%" />
-
 <table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusEich15&theme=tokyonight" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusEich15&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusEich15&theme=tokyonight" alt="Top Languages by Repo" />
@@ -129,6 +135,8 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 ---
 
 <div align="center">
+
+<sub>Made with ❤️ and <strong>AI Agents</strong> — <a href="https://github.com/Never-Lift">Never Lift Organization</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=120&section=footer&animation=fadeIn" width="100%" />
 
