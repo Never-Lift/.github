@@ -18,7 +18,7 @@ Existe um protótipo anterior do mesmo autor, com o mesmo conceito de jogo. **Ne
 | [Never Lift - Backend Roadmap](https://github.com/orgs/Never-Lift/projects) | Módulos 0-9 do backend |
 | [Never Lift - Frontend Roadmap](https://github.com/orgs/Never-Lift/projects) | Módulos 0-9 do frontend |
 
-Em desenvolvimento ativo — o status módulo a módulo, atualizado, está sempre nos Projects acima e na tabela de status do `AGENTS.md` de cada repositório, não aqui.
+Em desenvolvimento ativo — o status módulo a módulo, atualizado, está sempre nos Projects acima e na tabela de status do `AGENTS.md` de cada repositório, não aqui. 
 
 ## Arquitetura, resumida
 
