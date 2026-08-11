@@ -1,6 +1,17 @@
 <div align="center">
 
-![Never Lift Banner](https://capsule-render.vercel.app/api?type=waving&color=012987&height=200&section=header&text=Never%20Lift&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=2D%20Race%20Game%20Online%20%E2%80%94%20Built%20with%20AI%20Agents&descAlignY=58&descSize=20&animation=fadeIn)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=11&pause=99999&color=FFFFFF&background=0A1628&center=true&vCenter=true&width=900&height=12&lines=x" alt="" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=header&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%" />
+</picture>
+
+<img src="profile/logo.png" width="120" alt="Never Lift Logo" />
+
+# 🏁 Never Lift
+
+**2D Race Game Online — Built with AI Agents**
 
 </div>
 
@@ -58,11 +69,13 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusEich15&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=c9d1d9&border_color=1e3a5f&hide_border=false&include_all_commits=true&count_private=true" alt="Never Lift Stats" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusEich15&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=c9d1d9&border_color=1e3a5f&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEich15&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&border_color=1e3a5f&langs_count=8" alt="Most Used Languages" />
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusEich15&theme=tokyonight" alt="Repos por Linguagem" />
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusEich15&theme=tokyonight" alt="Linguagens por Commits" />
     </td>
   </tr>
 </table>
@@ -122,6 +135,8 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-![Never Lift Footer](https://capsule-render.vercel.app/api?type=waving&color=012987&height=120&section=footer&animation=fadeIn)
+<sub>Made with ❤️ and <strong>AI Agents</strong> — <a href="https://github.com/Never-Lift">Never Lift Organization</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
