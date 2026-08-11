@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<img src="profile/logo.png" width="130" alt="Never Lift Logo" />
+<img src="logo.png" width="130" alt="Never Lift Logo" />
 
 # 🏁 Never Lift
 
@@ -62,9 +60,15 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusEich15&theme=tokyonight" alt="Profile Details" width="100%" />
-
 <table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusEich15&theme=tokyonight" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusEich15&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusEich15&theme=tokyonight" alt="Top Languages by Repo" />
@@ -91,30 +95,55 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 ## 🗺️ Acompanhamento do Progresso
 
-| Project | O que rastreia |
-|---|---|
-| [Never Lift - Backend Roadmap](https://github.com/orgs/Never-Lift/projects) | Módulos 0-9 do backend |
-| [Never Lift - Frontend Roadmap](https://github.com/orgs/Never-Lift/projects) | Módulos 0-9 do frontend |
+<div align="center">
 
-> Em desenvolvimento ativo — o status módulo a módulo, atualizado, está sempre nos Projects acima e na tabela de status do `AGENTS.md` de cada repositório, não aqui.
+| 📋 Project | 🎯 O que rastreia | 📊 Status |
+|:---:|:---:|:---:|
+| [Never Lift — Backend Roadmap](https://github.com/orgs/Never-Lift/projects) | Módulos 0–9 do backend | ![status](https://img.shields.io/badge/Em%20Desenvolvimento-f59e0b?style=flat-square&logo=github&logoColor=white) |
+| [Never Lift — Frontend Roadmap](https://github.com/orgs/Never-Lift/projects) | Módulos 0–9 do frontend | ![status](https://img.shields.io/badge/Em%20Desenvolvimento-f59e0b?style=flat-square&logo=github&logoColor=white) |
+
+> 💡 O status módulo a módulo está sempre atualizado nos **Projects** acima e no `AGENTS.md` de cada repositório.
+
+</div>
 
 ---
 
-## 🏗️ Arquitetura, resumida
+## 🏗️ Arquitetura
 
-- Dois planos de comunicação: **REST** (conta, social, campeonato, recordes) e **tempo real via WebSocket** (o motor de corrida, um socket por sala).
-- O servidor roda a física num passo fixo (tick) e decide colisão e progresso — os clientes enviam só intenção de input, nunca posição.
-- O cliente usa **predição local + reconciliação com o servidor + interpolação** dos outros jogadores, pra esconder a latência de rede sem abrir mão da autoridade do servidor.
+<div align="center">
 
-> Plano completo (arquitetura, protocolo de tempo real, módulo a módulo): pasta `docs/` de cada repositório — os dois arquivos (`plano-implementacao-backend.md` e `plano-implementacao-frontend.md`) existem nos dois repositórios, pra cada lado ter conhecimento do outro.
+| 🔌 Comunicação | ⚙️ Autoridade | 🌐 Cliente |
+|:---:|:---:|:---:|
+| REST + WebSocket | Servidor (física, colisão, progresso) | Predição local + Reconciliação + Interpolação |
+
+</div>
+
+- **REST** — conta, social, campeonato, recordes
+- **WebSocket** — motor de corrida em tempo real *(um socket por sala)*
+- O servidor roda a física em **passo fixo (tick)** e é a única autoridade — clientes enviam só intenção de input, nunca posição
+- O cliente usa **predição local + reconciliação + interpolação** para esconder a latência sem abrir mão da autoridade do servidor
+
+<div align="center">
+
+> 📂 Plano completo em `docs/` de cada repositório: `plano-implementacao-backend.md` e `plano-implementacao-frontend.md`
+
+</div>
 
 ---
 
 ## 🔀 Fluxo de Desenvolvimento
 
-- `main` é a branch protegida de produção — só recebe merge vindo de `develop`, nunca push direto.
-- `develop` recebe `feature/*`/`fix/*`, também protegida.
-- Nenhum módulo é considerado pronto sem testes automatizados cobrindo suas regras de negócio — regra fixa em `AGENTS.md`, vale pros dois repositórios.
+<div align="center">
+
+| Branch | 🔒 Proteção | ➡️ Fluxo de entrada |
+|:---:|:---:|:---:|
+| `main` | ![protegida](https://img.shields.io/badge/Protegida-22c55e?style=flat-square&logoColor=white) | Somente merge vindo de `develop` |
+| `develop` | ![protegida](https://img.shields.io/badge/Protegida-22c55e?style=flat-square&logoColor=white) | Branches `feature/*` e `fix/*` |
+| `feature/*` `fix/*` | ![livre](https://img.shields.io/badge/Livre-6366f1?style=flat-square&logoColor=white) | Merge em `develop` via Pull Request |
+
+> ✅ Nenhum módulo é considerado pronto sem **testes automatizados** cobrindo suas regras de negócio — regra fixada no `AGENTS.md` de ambos os repositórios.
+
+</div>
 
 ---
 
@@ -130,6 +159,6 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=footer&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
