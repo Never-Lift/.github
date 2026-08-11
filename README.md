@@ -1,6 +1,6 @@
 <div align="center">
 
-![Never Lift Banner](https://capsule-render.vercel.app/api?type=waving&color=#012987&height=200&section=header&text=Never%20Lift&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=2D%20Race%20Game%20Online%20%E2%80%94%20Built%20with%20AI%20Agents&descAlignY=58&descSize=20&animation=fadeIn)
+![Never Lift Banner](https://capsule-render.vercel.app/api?type=waving&color=012987&height=200&section=header&text=Never%20Lift&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=2D%20Race%20Game%20Online%20%E2%80%94%20Built%20with%20AI%20Agents&descAlignY=58&descSize=20&animation=fadeIn)
 
 </div>
 
