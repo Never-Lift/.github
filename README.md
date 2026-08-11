@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="130" alt="Never Lift Logo" />
+<img src="profile/logo.png" width="130" alt="Never Lift Logo" />
 
 # 🏁 Never Lift
 
