@@ -56,43 +56,6 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 ---
 
-## 📊 Estatísticas & Linguagens
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusEich15&theme=nord_dark" alt="Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusEich15&theme=nord_dark&utcOffset=-3" alt="Productive Time" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusEich15&theme=nord_dark" alt="Top Languages by Repo" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusEich15&theme=nord_dark" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📈 Histórico de Commits
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusEich15&theme=github-compact&bg_color=0d1117&color=5e9ecf&line=2e6da4&point=5e9ecf&area=true&hide_border=false)](https://github.com/Never-Lift)
-
-</div>
-
----
-
 ## 🗺️ Acompanhamento do Progresso
 
 <div align="center">
