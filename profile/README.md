@@ -4,7 +4,7 @@
 
 # 🏁 Never Lift
 
-**2D Race Game Online — Built with AI Agents**
+**2D Race Game Online**
 
 </div>
 
@@ -63,18 +63,18 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusEich15&theme=tokyonight" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusEich15&theme=nord_dark" alt="Stats" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusEich15&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusEich15&theme=nord_dark&utcOffset=-3" alt="Productive Time" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusEich15&theme=tokyonight" alt="Top Languages by Repo" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusEich15&theme=nord_dark" alt="Top Languages by Repo" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusEich15&theme=tokyonight" alt="Top Languages by Commit" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusEich15&theme=nord_dark" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusEich15&theme=tokyo-night&bg_color=0d1117&color=4f8ef7&line=1e3a5f&point=4f8ef7&area=true&hide_border=false)](https://github.com/Never-Lift)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusEich15&theme=github-compact&bg_color=0d1117&color=5e9ecf&line=2e6da4&point=5e9ecf&area=true&hide_border=false)](https://github.com/Never-Lift)
 
 </div>
 
