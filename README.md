@@ -1,6 +1,6 @@
 <div align="center">
 
-![Never Lift Banner](https://capsule-render.vercel.app/api?type=waving&color=012987,ffffff&height=200&section=header&text=Never%20Lift&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=2D%20Race%20Game%20Online%20%E2%80%94%20Built%20with%20AI%20Agents&descAlignY=58&descSize=20&animation=fadeIn)
+![Never Lift Banner](https://capsule-render.vercel.app/api?type=waving&color=012987&height=200&section=header&text=Never%20Lift&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=2D%20Race%20Game%20Online%20%E2%80%94%20Built%20with%20AI%20Agents&descAlignY=58&descSize=20&animation=fadeIn)
 
 </div>
 
@@ -122,6 +122,6 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-![Never Lift Footer](https://capsule-render.vercel.app/api?type=waving&color=000814,001a80,0033cc,0055ff&height=120&section=footer&animation=fadeIn)
+![Never Lift Footer](https://capsule-render.vercel.app/api?type=waving&color=012987&height=120&section=footer&animation=fadeIn)
 
 </div>
