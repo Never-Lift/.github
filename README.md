@@ -1,6 +1,6 @@
 <div align="center">
 
-![Never Lift Banner](https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2244,102a5e&height=200&section=header&text=Never%20Lift&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=2D%20Race%20Game%20Online%20%E2%80%94%20Built%20with%20AI%20Agents&descAlignY=58&descSize=20&animation=fadeIn)
+![Never Lift Banner](https://capsule-render.vercel.app/api?type=waving&color=0055ff,0033cc,001a80,000814&height=200&section=header&text=Never%20Lift&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=2D%20Race%20Game%20Online%20%E2%80%94%20Built%20with%20AI%20Agents&descAlignY=58&descSize=20&animation=fadeIn)
 
 </div>
 
@@ -59,10 +59,10 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Never-Lift&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=c9d1d9&border_color=1e3a5f&hide_border=false&include_all_commits=true&count_private=true&org=Never-Lift" alt="Never Lift Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusEich15&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=4f8ef7&icon_color=4f8ef7&text_color=c9d1d9&border_color=1e3a5f&hide_border=false&include_all_commits=true&count_private=true" alt="Never Lift Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?MatheusEich15=Never-Lift&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&border_color=1e3a5f&langs_count=8" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEich15&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f8ef7&text_color=c9d1d9&border_color=1e3a5f&langs_count=8" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
@@ -75,7 +75,7 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?MatheusEich15=Never-Lift&theme=tokyo-night&bg_color=0d1117&color=4f8ef7&line=1e3a5f&point=4f8ef7&area=true&hide_border=false)](https://github.com/Never-Lift)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusEich15&theme=tokyo-night&bg_color=0d1117&color=4f8ef7&line=1e3a5f&point=4f8ef7&area=true&hide_border=false)](https://github.com/Never-Lift)
 
 </div>
 
@@ -122,6 +122,6 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-![Never Lift Footer](https://capsule-render.vercel.app/api?type=waving&color=0a1628,0d2244,102a5e&height=120&section=footer&animation=fadeIn)
+![Never Lift Footer](https://capsule-render.vercel.app/api?type=waving&color=000814,001a80,0033cc,0055ff&height=120&section=footer&animation=fadeIn)
 
 </div>
