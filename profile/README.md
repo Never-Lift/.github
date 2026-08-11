@@ -159,6 +159,6 @@ Jogo de corrida **2D multiplayer** (top-down, estilo drift) — construído quas
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=header&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=012987&height=180&section=footer&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
